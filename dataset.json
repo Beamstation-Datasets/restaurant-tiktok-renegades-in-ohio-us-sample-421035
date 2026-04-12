@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
+  "config_name": "Restaurant TikTok Renegades in Ohio, US",
+  "export_job_id": "e68b6540-c734-4d0a-8a9e-fce4958301a7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 421035,
+  "location_name": "Ohio",
+  "location_type": "state",
+  "repo_name": "restaurant-tiktok-renegades-in-ohio-us-sample-421035",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/421035/beamstation_421035_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_pct": 9.2,
+  "sample_records": 8,
+  "sample_sha256": "81ded7e6374499510d1fc7adb739c139d8a5e3cf9f73709c098aeb4e5c3b42be",
+  "sample_size_bytes": 48237,
+  "total_records": 87,
+  "updated_at": "2026-04-08T04:40:35.994864+00:00"
+}
