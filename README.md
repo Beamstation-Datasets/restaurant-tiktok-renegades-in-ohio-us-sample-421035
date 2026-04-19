@@ -9,9 +9,9 @@
 | Dataset ID | `421035` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 87 records |
-| Free sample size | 8 records (9.2%) |
-| Last export | 2026-04-08T04:40:35.994864+00:00 |
+| Full dataset size | 84 records |
+| Free sample size | 8 records (9.52%) |
+| Last export | 2026-04-15T09:12:06.532342+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-ohio-us-sample-421035/releases/download/sample-latest/beamstation_421035_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
