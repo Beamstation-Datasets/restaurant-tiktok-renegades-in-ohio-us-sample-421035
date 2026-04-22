@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cf5e1405-594f-446c-be59-a1cb74cef942",
+  "export_job_id": "320d2a81-f1d0-41e3-9776-925c6c7a946a",
   "id_short": 421035,
-  "published_at": "2026-04-19T07:27:52Z",
+  "published_at": "2026-04-22T19:42:56Z",
   "repo_name": "restaurant-tiktok-renegades-in-ohio-us-sample-421035",
   "sample_asset_name": "beamstation_421035_restaurants-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/421035/beamstation_421035_restaurants-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "bde18ad5a9720fef86225595a1ead65ee2342543695ae7063dd5d5e69deaed28",
-  "sample_size_bytes": 46527,
-  "total_records": 84
+  "sample_records": 7,
+  "sample_sha256": "16d3a18beb42724231821e77b771e0d52da6b9a715284ae9e4803b1ff612f601",
+  "sample_size_bytes": 44208,
+  "total_records": 72
 }
